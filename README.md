@@ -61,8 +61,3 @@ Em anos-bissextos.cpp, o programa recebe um ano como entrada e informa ao usuár
 
 * É divisível por 4, mas não por 100;
 * É divisível por 400.
-
-
-<h3 id=test>Testes de funcionalidade</h3>
-
-b
